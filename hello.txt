@@ -1,1 +1,8 @@
-hello world
+hello world\nreduction text
+reduction text
+reduction text
+reduction text
+reduction text
+reduction text
+reduction text
+reduction text
